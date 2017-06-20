@@ -4,12 +4,12 @@ public class prm {
 	  public static void main(String[] args) {
           
          
-          int limit = 99;
+          int limit = 50;
          
           System.out.println("Prime numbers between 1 and " + limit);
          
          
-          for(int i=10; i < 100; i++){
+          for(int i=10; i < 50; i++){
                  
                   boolean isPrime = true;
                  
